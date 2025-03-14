@@ -6,3 +6,4 @@ CREATE TABLE etudiant (
     email VARCHAR(255) NOT NULL,
     PRIMARY KEY(id)
 );
+SHOW DATABASES;
